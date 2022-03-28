@@ -35,6 +35,8 @@ code:
   - name: CSS
     version: 3
     tools: [ "Bootstrap", "Tailwind" ]
+  - name: DevOps
+    tools: [ "Docker", "Kubernetes", "Github Actions" ]
   - name: Others
     tools: [ "Sass", "Less", "Webpack", "Vite" ]
 links:
