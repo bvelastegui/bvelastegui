@@ -11,10 +11,10 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=bvelastegui&label=Profile+views&style=flat-square" alt="bvelastegui" />
-  <a href="https://twitter.com/shinigamicorei7" target="blank">
+  <a href="https://twitter.com/shinigamicorei7" target="_blank">
     <img src="https://img.shields.io/twitter/follow/shinigamicorei7?style=flat-square&color=blue" alt="shinigamicorei7" />
   </a> 
-  <a href="https://wakatime.com/@8bb97c70-40a8-4935-9c56-dcb6107c7183" target="blank">
+  <a href="https://wakatime.com/@8bb97c70-40a8-4935-9c56-dcb6107c7183" target="_blank">
     <img src="https://wakatime.com/badge/user/8bb97c70-40a8-4935-9c56-dcb6107c7183.svg?style=flat-square" alt="shinigamicorei7" />
   </a> 
 </p>
