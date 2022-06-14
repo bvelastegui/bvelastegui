@@ -2,7 +2,7 @@
 
 #### A passionate fullstack developer from Ecuador
 
-- 🔭 I’m currently working on [Intisana](www.intisana.com) as fullstack developer.
+- 🔭 I’m currently working on [Polimundo](https://polimundo.com/) as fullstack developer.
 - 🌱 I’m currently learning **Kotlin.**
 - 💬 Ask me about **php, mysql, javascript, html5 and css.**
 - ⚡ Fun fact: **I've only worked on private projects 🤔.**
